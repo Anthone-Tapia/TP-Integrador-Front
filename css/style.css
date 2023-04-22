@@ -2,5 +2,26 @@
 .navbar-dark {
     background-color: #333A40;
   }
-  
-  
+
+.text-custom-bt{
+    color:#2A9F44;
+}
+
+.text-custom-bt:hover{
+    color:#26c248;
+}
+
+/* Conferencia */
+
+.bg-img{
+    background-image: url(/src/img/ba1-mod.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 40rem;
+}
+
+.btn-buy-custom{
+    background-color: #29A744;
+}
+
