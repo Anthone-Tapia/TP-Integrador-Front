@@ -13,7 +13,7 @@
 
 /* CONFERENCIA */
 .bg-img {
-    background-image: url(/src/img/ba1-mod.jpg);
+    background-image: url(../src/img/ba1-mod.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
