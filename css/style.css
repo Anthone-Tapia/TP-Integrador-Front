@@ -1,19 +1,18 @@
-/* Navigation Bar */
+/* NAVIGATION BAR */
 .navbar-dark {
     background-color: #333A40;
-  }
-
-.text-custom-bt{
-    color:#2A9F44;
 }
 
-.text-custom-bt:hover{
-    color:#26c248;
+.text-custom-bt {
+    color: #2A9F44;
 }
 
-/* Conferencia */
+.text-custom-bt:hover {
+    color: #26c248;
+}
 
-.bg-img{
+/* CONFERENCIA */
+.bg-img {
     background-image: url(/src/img/ba1-mod.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -21,30 +20,34 @@
     height: 40rem;
 }
 
-.btn-buy-custom{
+.btn-buy-custom {
     background-color: #29A744;
 }
 
-.btn-buy-custom:hover{
+.btn-buy-custom:hover {
     background-color: #34d657;
 }
 
-/* Place */
-
-.bg-place{
+/* PLACE */
+.bg-place {
     background-color: #353A40;
 }
 
-.text-decoration-dot{
+.text-decoration-dot {
     text-decoration-line: underline;
-    text-decoration-style:dotted ;
+    text-decoration-style: dotted;
 }
 
-/* Form */
-.btn-form-custom{
+/* FORM */
+.btn-form-custom {
     background-color: #96C93E;
 }
 
-.btn-form-custom:hover{
+.btn-form-custom:hover {
     background-color: #aee949;
+}
+
+/* FOOTER */
+.bg-footer {
+    background-image: linear-gradient(to right, #1D3744, #1E5372);
 }
