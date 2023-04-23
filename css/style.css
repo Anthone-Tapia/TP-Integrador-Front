@@ -25,8 +25,26 @@
     background-color: #29A744;
 }
 
+.btn-buy-custom:hover{
+    background-color: #34d657;
+}
+
 /* Place */
 
 .bg-place{
     background-color: #353A40;
+}
+
+.text-decoration-dot{
+    text-decoration-line: underline;
+    text-decoration-style:dotted ;
+}
+
+/* Form */
+.btn-form-custom{
+    background-color: #96C93E;
+}
+
+.btn-form-custom:hover{
+    background-color: #aee949;
 }
